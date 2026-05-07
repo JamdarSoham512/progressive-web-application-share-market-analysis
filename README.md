@@ -1,3 +1,5 @@
+Developed by Soham Jotiram Jamdar 
+
 # 📈 Progressive Web Application for Share Market Analysis with Live Chat
 
 A **Progressive Web Application (PWA)** designed for **share market analysis** with stock-wise dashboards and a **live chat interface**.  
